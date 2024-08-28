@@ -24,7 +24,7 @@
 #include "common/config.h"
 #include "common/io.h"
 #include "common/version.h"
-
+// Comment for example 
 namespace xgboost {
 enum CLITask {
   kTrain = 0,
